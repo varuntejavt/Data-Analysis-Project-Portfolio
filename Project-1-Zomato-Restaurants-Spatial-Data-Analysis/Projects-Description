@@ -1,5 +1,0 @@
-This readme file describes all the data analysis projects uploaded.
-
-1. Project 1: Zomato Restaurants Geospatial Data Analysis
-   Objective of the analysis:  To be able to perform spatial data analysis on Zomato Restaurants, get insights from the data regarding the distribution of restaurants, 
-                               cuisine types. This project illustrates the importance and usage of geopy and folium libraries for geospatial data analysis
